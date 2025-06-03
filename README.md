@@ -47,7 +47,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/ruwainkelly/aws-serverless-dashboard.git
+git clone https://github.com/iamruwainkelly/aws-serverless-dashboard.git
 cd aws-serverless-dashboard
 
 # Install dependencies
@@ -207,7 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **RUWΔIN KΞLLY**
 - Website: [ruwainkelly.co.za](https://ruwainkelly.co.za)
 - Email: admin@ruwainkelly.co.za
-- GitHub: [@ruwainkelly](https://github.com/ruwainkelly)
+- GitHub: [@iamruwainkelly](https://github.com/iamruwainkelly)
 - LinkedIn: [mr-r](https://linkedin.com/in/mr-r)
 
 ## 🙏 Acknowledgments
