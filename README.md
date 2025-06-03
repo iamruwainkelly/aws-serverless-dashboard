@@ -11,6 +11,12 @@
 🚀 **Live Demo**: [AWS Serverless Dashboard](https://aws-serverless-dashboard-ruwain.vercel.app)  
 🎯 **Portfolio Integration**: [iamruwainkelly.vercel.app/aws-serverless](https://iamruwainkelly.vercel.app/aws-serverless)
 
+**✨ New Features:**
+- **Unified Dashboard** - Toggle between Summary and Full Metrics views
+- **Terraform API Integration** - Connect to live infrastructure backend
+- **Enhanced Navigation** - Seamless portfolio integration
+- **Real-time Toggle** - Switch views without page reload
+
 ## ✨ Features
 
 ### 🎯 **Core Functionality**
@@ -36,6 +42,10 @@
 - **Responsive Design** - Works perfectly on desktop, tablet, and mobile
 - **Modern UI** - Dark theme with glass morphism effects
 - **Interactive Filters** - Region selector and time range controls
+- **Unified Views** - Toggle between Summary and Full Metrics modes
+- **Terraform Integration** - Connect to live infrastructure APIs
+- **Live Data Toggle** - Switch between mock and real-time data
+- **Export Functionality** - CSV export with view-specific data
 
 ## 🚀 Quick Start
 
@@ -249,9 +259,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ **Vercel Configuration** - Ready for instant deployment
 
 ### 🚀 **Live Demos**
-- **Portfolio Integration**: [localhost:3002/serverless-dashboard](http://localhost:3002/serverless-dashboard)
+- **Portfolio Integration**: [localhost:3001/aws-serverless](http://localhost:3001/aws-serverless) (Unified Dashboard)
 - **Standalone Version**: [localhost:3000](http://localhost:3000)
 - **Production Preview**: [localhost:4173](http://localhost:4173)
+- **Terraform Backend**: [localhost:3002](http://localhost:3002) (API Integration)
+
+**New Route Structure:**
+- `/aws-serverless` - Main unified dashboard (Summary + Full Metrics toggle)
+- `/serverless-dashboard` - Redirects to `/aws-serverless` (backward compatibility)
+- `/terraform-backend` - Infrastructure management interface
 
 ---
 
