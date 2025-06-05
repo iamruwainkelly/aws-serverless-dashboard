@@ -7,12 +7,14 @@
     </div>
 
     <!-- Pie Chart -->
-    <div class="h-64 flex justify-center">
-      <Pie 
-        :data="data" 
-        :options="chartOptions"
-        v-if="data?.labels?.length"
-      />
+    <div class="h-64 flex justify-center items-center overflow-hidden">
+      <div class="w-full h-full max-w-xs max-h-64 relative">
+        <Pie 
+          :data="data" 
+          :options="chartOptions"
+          v-if="data?.labels?.length"
+        />
+      </div>
     </div>
 
     <!-- Cost Breakdown List -->
