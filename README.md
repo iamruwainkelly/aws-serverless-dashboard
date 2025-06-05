@@ -8,36 +8,36 @@
 [![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=flat-square&logo=vite)](https://vitejs.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-🚀 **Live Demo**: [AWS Serverless Dashboard](https://aws-serverless-dashboard-ruwain.vercel.app)  
-🎯 **Portfolio Integration**: [iamruwainkelly.vercel.app/aws-serverless](https://iamruwainkelly.vercel.app/aws-serverless)
+**Live Demo**: [AWS Serverless Dashboard](https://aws-serverless-dashboard-ruwain.vercel.app)  
+**Portfolio Integration**: [iamruwainkelly.vercel.app/aws-serverless](https://iamruwainkelly.vercel.app/aws-serverless)
 
-**✨ New Features:**
+** New Features:**
 - **Unified Dashboard** - Toggle between Summary and Full Metrics views
 - **Terraform API Integration** - Connect to live infrastructure backend
 - **Enhanced Navigation** - Seamless portfolio integration
 - **Real-time Toggle** - Switch views without page reload
 
-## ✨ Features
+##  Features
 
-### 🎯 **Core Functionality**
+###  **Core Functionality**
 - **Real-time Metrics** - Live monitoring of Lambda, API Gateway, and other serverless services
 - **Cost Analytics** - Comprehensive cost breakdowns with trend analysis
 - **Performance Monitoring** - Duration, error rates, and invocation metrics
 - **Service Health** - Status cards for Lambda, API Gateway, DynamoDB, S3, and Cognito
 
-### 📈 **Interactive Charts**
+###  **Interactive Charts**
 - **Lambda Metrics** - Invocations, errors, duration, and error rate analysis
 - **API Gateway Analytics** - Request status codes, latency statistics
 - **Cost Visualization** - Pie charts and trend lines for cost optimization
 - **Storage Metrics** - S3, SNS, and SQS usage monitoring
 
-### 🔍 **CloudWatch Integration**
+###  **CloudWatch Integration**
 - **Live Log Streaming** - Real-time CloudWatch logs with filtering
 - **Auto-refresh** - Configurable refresh intervals
 - **Log Statistics** - Error counts and log level distribution
 - **Search & Filter** - Advanced log filtering capabilities
 
-### 💡 **Smart Features**
+###  **Smart Features**
 - **Real-time Data Simulation** - Mock AWS metrics with realistic patterns
 - **Responsive Design** - Works perfectly on desktop, tablet, and mobile
 - **Modern UI** - Dark theme with glass morphism effects
@@ -47,7 +47,7 @@
 - **Live Data Toggle** - Switch between mock and real-time data
 - **Export Functionality** - CSV export with view-specific data
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js 18+ 
@@ -82,7 +82,7 @@ npm run preview
 ## 🌐 Live Demo
 
 Try the live deployed version here:
-**[AWS Serverless Dashboard Demo](https://ruwainkelly.co.za/serverless-dashboard)**
+**[AWS Serverless Dashboard Demo](https://iamruwainkelly.vercel.app/aws-serverless)**
 
 ## 🎮 Usage
 
@@ -139,7 +139,7 @@ aws-serverless-dashboard/
 └── README.md
 ```
 
-## 📊 Dashboard Components
+## Dashboard Components
 
 ### Status Cards
 - **Real-time Health Monitoring** - Service availability indicators
@@ -158,7 +158,7 @@ aws-serverless-dashboard/
 - **Auto-refresh Toggle** - Configurable update intervals
 - **Log Statistics** - Error counts and distribution analysis
 
-## 🎨 Customization
+##  Customization
 
 ### Adding New Metrics
 To add new AWS service metrics:
@@ -175,7 +175,7 @@ The project uses a custom Tailwind configuration with:
 - **Glass Morphism** - Modern translucent card effects
 - **Responsive Design** - Mobile-first approach
 
-## 🚀 Deployment
+##  Deployment
 
 ### Vercel (Recommended)
 ```bash
@@ -215,7 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **RUWΔIN KΞLLY**
-- Website: [ruwainkelly.co.za](https://ruwainkelly.co.za)
+- Website: [iamruwainkelly.co.za](https://iamruwainkelly.vercel.app/)
 - Email: admin@ruwainkelly.co.za
 - GitHub: [@iamruwainkelly](https://github.com/iamruwainkelly)
 - LinkedIn: [mr-r](https://linkedin.com/in/mr-r)
@@ -231,7 +231,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star this repository if you find it helpful!**
 
-## 📈 Planned Enhancements
+##  Planned Enhancements
 
 - **Real AWS Integration** - Connect to actual CloudWatch APIs
 - **Custom Dashboards** - User-configurable dashboard layouts
@@ -239,26 +239,26 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Export Functionality** - PDF/CSV report generation
 - **Multi-Region Support** - Cross-region metrics comparison
 
-## ✅ Project Status
+## Project Status
 
-**🎉 COMPLETED & FULLY FUNCTIONAL**
+**COMPLETED & FULLY FUNCTIONAL**
 
-### ✅ **Development Status**
-- ✅ **Frontend Dashboard** - Complete Vue 3 + Composition API implementation
-- ✅ **Chart Components** - All interactive charts with Chart.js integration
-- ✅ **Mock Data API** - Realistic AWS metrics simulation
-- ✅ **Responsive Design** - Mobile-friendly Tailwind CSS styling
-- ✅ **Navigation Integration** - Seamless router configuration
-- ✅ **Production Build** - Optimized build system with Vite
+###  **Development Status**
+-  **Frontend Dashboard** - Complete Vue 3 + Composition API implementation
+-  **Chart Components** - All interactive charts with Chart.js integration
+-  **Mock Data API** - Realistic AWS metrics simulation
+-  **Responsive Design** - Mobile-friendly Tailwind CSS styling
+-  **Navigation Integration** - Seamless router configuration
+-  **Production Build** - Optimized build system with Vite
 
-### ✅ **Deployment Ready**
-- ✅ **Development Server** - Running on `http://localhost:3000`
-- ✅ **Production Build** - Generates optimized static files
-- ✅ **Standalone Repository** - Independent GitHub repo ready
-- ✅ **Portfolio Integration** - Available at `/serverless-dashboard` route
-- ✅ **Vercel Configuration** - Ready for instant deployment
+###  **Deployment Ready**
+-  **Development Server** - Running on `http://localhost:3000`
+-  **Production Build** - Generates optimized static files
+-  **Standalone Repository** - Independent GitHub repo ready
+-  **Portfolio Integration** - Available at `/serverless-dashboard` route
+-  **Vercel Configuration** - Ready for instant deployment
 
-### 🚀 **Live Demos**
+###  **Live Demos**
 - **Portfolio Integration**: [localhost:3001/aws-serverless](http://localhost:3001/aws-serverless) (Unified Dashboard)
 - **Standalone Version**: [localhost:3000](http://localhost:3000)
 - **Production Preview**: [localhost:4173](http://localhost:4173)
