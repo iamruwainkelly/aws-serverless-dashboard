@@ -8,7 +8,7 @@
 [![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=flat-square&logo=vite)](https://vitejs.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
-**Live Demo**: [AWS Serverless Dashboard](https://aws-serverless-dashboard-ruwain.vercel.app)  
+**Live Demo**: [AWS Serverless Dashboard](https://iamruwainkelly.vercel.app/aws-serverless)  
 **Portfolio Integration**: [iamruwainkelly.vercel.app/aws-serverless](https://iamruwainkelly.vercel.app/aws-serverless)
 
 ** New Features:**
